@@ -1,4 +1,4 @@
-# 🔒 Malware-Simulado-Python-Educacional
+# 🔒 DIO-CyberSec-Final-Project
 
 ### Autor: Diegodevcyber
 
