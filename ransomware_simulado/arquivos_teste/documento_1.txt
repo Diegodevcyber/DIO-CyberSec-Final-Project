@@ -1,0 +1,7 @@
+CONTEÚDO SECRETO
+
+Este é um documento de teste crucial.
+Seu conteúdo é vital para o nosso projeto, por isso, ele precisa ser criptografado e, posteriormente, descriptografado com sucesso pelo script de recuperação.
+
+Data: 26 de Novembro de 2025
+Código de Verificação: A1B2C3D4E5F6
